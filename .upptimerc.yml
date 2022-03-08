@@ -19,6 +19,7 @@ status-website:
   name: ClannyStatus
   introTitle: "**Clanny** is the free Roblox ranking bot."
   introMessage: This page shows the status of Clanny
+  theme: dark
   navbar:
     - title: Status
       href: /
