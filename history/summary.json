@@ -4,18 +4,20 @@
     "url": "https://clanny.systems",
     "icon": "https://favicons.githubusercontent.com/clanny.systems",
     "slug": "main-website-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 609,
-    "timeDay": 264,
-    "timeWeek": 523,
-    "timeMonth": 609,
-    "timeYear": 609,
-    "dailyMinutesDown": {}
+    "time": 606,
+    "timeDay": 404,
+    "timeWeek": 525,
+    "timeMonth": 606,
+    "timeYear": 606,
+    "dailyMinutesDown": {
+      "2022-03-20": 0
+    }
   },
   {
     "name": "Wiki",
@@ -40,17 +42,19 @@
     "url": "https://api.clanny.systems",
     "icon": "https://favicons.githubusercontent.com/api.clanny.systems",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1627,
-    "timeDay": 106,
+    "time": 1557,
+    "timeDay": 236,
     "timeWeek": 363,
-    "timeMonth": 1627,
-    "timeYear": 1627,
-    "dailyMinutesDown": {}
+    "timeMonth": 1557,
+    "timeYear": 1557,
+    "dailyMinutesDown": {
+      "2022-03-20": 0
+    }
   }
 ]
