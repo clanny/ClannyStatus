@@ -9,6 +9,10 @@ sites:
     url: https://wiki.clanny.systems
   - name: API
     url: https://api.clanny.systems
+    expectedStatusCodes:
+      - 200
+      - 400
+      - 404
    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
