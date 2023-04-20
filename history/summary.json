@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.56%",
     "time": 298,
-    "timeDay": 267,
-    "timeWeek": 183,
-    "timeMonth": 178,
+    "timeDay": 247,
+    "timeWeek": 196,
+    "timeMonth": 183,
     "timeYear": 264,
     "dailyMinutesDown": {
       "2022-07-25": 17,
@@ -35,8 +35,7 @@
       "2022-04-26": 105,
       "2022-04-25": 18,
       "2022-04-23": 138,
-      "2022-04-22": 87,
-      "2022-04-20": 22
+      "2022-04-22": 87
     }
   },
   {
@@ -51,16 +50,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 227,
-    "timeDay": 280,
-    "timeWeek": 237,
-    "timeMonth": 174,
+    "timeDay": 148,
+    "timeWeek": 235,
+    "timeMonth": 176,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2022-07-01": 47,
       "2022-06-30": 75,
       "2022-06-29": 19,
-      "2022-06-21": 31,
-      "2022-04-20": 22
+      "2022-06-21": 31
     }
   },
   {
@@ -69,16 +67,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.clanny.systems.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "95.53%",
+    "uptime": "95.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.45%",
-    "time": 462,
-    "timeDay": 594,
-    "timeWeek": 684,
-    "timeMonth": 669,
-    "timeYear": 434,
+    "time": 463,
+    "timeDay": 559,
+    "timeWeek": 653,
+    "timeMonth": 667,
+    "timeYear": 435,
     "dailyMinutesDown": {
       "2023-03-04": 988,
       "2023-03-03": 1440,
@@ -124,8 +122,7 @@
       "2022-04-26": 105,
       "2022-04-25": 18,
       "2022-04-23": 138,
-      "2022-04-22": 87,
-      "2022-04-20": 22
+      "2022-04-22": 87
     }
   }
 ]
